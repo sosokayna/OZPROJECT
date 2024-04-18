@@ -36,6 +36,12 @@ in
       Next
       DecodeStrategy
       X
+      SnackTurn
+      MoveSnackForward
+      ParseSpaceShipDirection
+      ParseSpaceShipPositionsY
+      ParseSpaceShipPositionX
+      Pa
    in
       % La fonction qui renvoit les nouveaux attributs du serpent après prise
       % en compte des effets qui l'affectent et de son instruction
